@@ -1,0 +1,6 @@
+package com.stemgon.foodhub
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
